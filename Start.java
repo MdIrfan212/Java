@@ -5,7 +5,35 @@ import javax.swing.*;
 import java.awt.event.*;
 public class Start 
 {
-	public static void main(String [] args)
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+public static void main(String [] args)
 	{
 		Welcome Wc = new Welcome();
 		Wc.show();
